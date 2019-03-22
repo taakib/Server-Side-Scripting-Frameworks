@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="857e6d59-7a94-4d9b-9f11-63156030a075" name="Default Changelist" comment="" />
+    <list default="true" id="857e6d59-7a94-4d9b-9f11-63156030a075" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -16,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="422">
-              <caret line="126" column="14" selection-start-line="126" selection-start-column="14" selection-end-line="126" selection-end-column="14" />
+            <state relative-caret-position="114">
+              <caret line="44" column="120" selection-start-line="44" selection-start-column="120" selection-end-line="44" selection-end-column="145" />
             </state>
           </provider>
         </entry>
@@ -55,6 +57,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -73,6 +78,7 @@
     <option name="width" value="1400" />
     <option name="height" value="810" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -91,6 +97,12 @@
               <item name="week1assignment" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="week1assignment" type="b2602c69:ProjectViewProjectNode" />
+              <item name="week1assignment" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="uploads" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -108,6 +120,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public/uploads" />
       <recent name="$PROJECT_DIR$/public" />
       <recent name="$PROJECT_DIR$/views" />
       <recent name="$PROJECT_DIR$" />
@@ -143,12 +156,12 @@
       <workItem from="1553243582085" duration="1503000" />
       <workItem from="1553245739202" duration="16000" />
       <workItem from="1553245771319" duration="275000" />
-      <workItem from="1553246073876" duration="233000" />
+      <workItem from="1553246073876" duration="904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14276000" />
+    <option name="totallyTimeSpent" value="14947000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="10" y="28" width="1400" height="810" extended-state="0" />
@@ -184,8 +197,8 @@
     <entry file="file://$PROJECT_DIR$/public/uploads/photo300x300.jpg" />
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="422">
-          <caret line="126" column="14" selection-start-line="126" selection-start-column="14" selection-end-line="126" selection-end-column="14" />
+        <state relative-caret-position="114">
+          <caret line="44" column="120" selection-start-line="44" selection-start-column="120" selection-end-line="44" selection-end-column="145" />
         </state>
       </provider>
     </entry>
